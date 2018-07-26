@@ -1,6 +1,6 @@
 # Doc Bot
 
-Bring the famed calculus and physics teacher to your Discord server to roast the living shit out of you and your friends.
+Bring the famed calculus and physics teacher to your Discord server to roast the living crap out of you and your friends.
 
 ## Adding to Server
 

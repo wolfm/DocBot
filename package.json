@@ -1,0 +1,8 @@
+{
+    "name": "DocBot",
+    "version": "0.1.0",
+    "devDependencies": {},
+    "dependencies": {
+        "discord.js": "^11.3.2"
+    }
+}

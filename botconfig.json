@@ -3,7 +3,7 @@
     "deleteCommands": true,
     "moronTriggers": [
         "calculus",
-        "calc ",
+        "calc",
         "math",
         "physics"
     ],
